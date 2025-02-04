@@ -1,0 +1,222 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_E1C009B6_CD14_4C8C_41DE_3A751ECDC76B.source = https://m.uber.com/ul/?action=setPickup&pickup=my_location&dropoff[formatted_address]=Espaço%20Caminho%20do%20Sol&dropoff[latitude]=-15.949446957041447&dropoff[longitude]=-48.09197214534102
+LinkBehaviour_E0849A86_CD14_4C8C_41E2_667A9C61166A.source = https://maps.app.goo.gl/Wvbcizd3poYPShiq6
+LinkBehaviour_CCB47B58_D25C_E9D2_41E4_D51852B2BA09.source = https://maps.app.goo.gl/Wvbcizd3poYPShiq6
+LinkBehaviour_CD2E575E_D25D_79CD_41E1_F2BF27ADFF83.source = https://search.google.com/local/writereview?placeid=ChIJey34Z35_WZMRxBkocsWPc-w
+LinkBehaviour_E2EE5F96_CD14_448C_41C1_FC21E2F83E09.source = https://search.google.com/local/writereview?placeid=ChIJey34Z35_WZMRxBkocsWPc-w
+LinkBehaviour_DEBA2D37_CD0C_458C_41DB_F191706EE7FE.source = https://wa.me/556196158654?text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20para%20reservar%20o%20sal%C3%A3o%20de%20festa%20para%20[QUAL%20EVENTO]%20no%20dia...
+LinkBehaviour_FC81AC28_CD14_4B83_41DF_2F86C024F600.source = https://wa.me/556196158654?text=Ol%C3%A1!%20Gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20para%20reservar%20o%20sal%C3%A3o%20de%20festa%20para%20[QUAL%20EVENTO]%20no%20dia...
+LinkBehaviour_E292F395_CD14_FC8C_41D9_ED6E4D110B85.source = https://www.google.com/maps/dir//Sal%C3%A3o+de+festa+Espa%C3%A7o+Caminho+do+Sol+IEventos+I+Ch%C3%A1cara+alugar+Ponte+Alta+Norte+DF+-+N%C3%BAcleo+Rural+Casa+Grande,+MA+10,+ch%C3%A1cara+24+-+Pte.+Alta+Norte+(Gama),+Bras%C3%ADlia+-+DF,+72428-010/@-15.9494589,-48.0945457,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x93597f7e67f82d7b:0xec738fc5722819c4!2m2!1d-48.0919708!2d-15.9494589?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D
+LinkBehaviour_F2204C08_D25D_6F32_41D3_294DEFBF1FBA.source = https://www.google.com/maps/dir//Sal%C3%A3o+de+festa+Espa%C3%A7o+Caminho+do+Sol+IEventos+I+Ch%C3%A1cara+alugar+Ponte+Alta+Norte+DF+-+N%C3%BAcleo+Rural+Casa+Grande,+MA+10,+ch%C3%A1cara+24+-+Pte.+Alta+Norte+(Gama),+Bras%C3%ADlia+-+DF,+72428-010/@-15.9494589,-48.0945457,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x93597f7e67f82d7b:0xec738fc5722819c4!2m2!1d-48.0919708!2d-15.9494589?entry=ttu&g_ep=EgoyMDI1MDEyOS4xIKXMDSoASAFQAw%3D%3D
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14377.55330038866!2d-73.99492968084243!3d40.75084469078082!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c259a9f775f259%3A0x999668d0d7c3fd7d!2s400+5th+Ave%2C+New+York%2C+NY+10018!5e0!3m2!1ses!2sus!4v1467271743182" width="600" height="450" frameborder="0" style="border:0" allowfullscreen>
+LinkBehaviour_CFD30BD7_D25D_E8DE_41E7_4545919B7E60.source = https://www.instagram.com/espacocaminhodosol
+LinkBehaviour_FF5E9AEE_CD17_CC9C_41DB_DFC2C4312226.source = https://www.instagram.com/espacocaminhodosol
+
+## Media
+
+### Audio
+audio_F4AD14F5_D24C_B8D2_41E4_49B4296C7E60.path = null
+audio_F48725C3_D24C_B936_41E8_B0704C9CFAFA.path = null
+audiores_F4123422_D24D_DF76_41E4_95A242B484C5.mp3Url = media/audio_F48725C3_D24C_B936_41E8_B0704C9CFAFA_pt.mp3
+audiores_F4123422_D24D_DF76_41E4_95A242B484C5.oggUrl = media/audio_F48725C3_D24C_B936_41E8_B0704C9CFAFA_pt.ogg
+audiores_F7D24CE9_D24D_A8F2_41DE_AA7FD7ECED71.mp3Url = media/audio_F4AD14F5_D24C_B8D2_41E4_49B4296C7E60_pt.mp3
+audiores_F7D24CE9_D24D_A8F2_41DE_AA7FD7ECED71.oggUrl = media/audio_F4AD14F5_D24C_B8D2_41E4_49B4296C7E60_pt.ogg
+
+### Title
+photo_C5EE60BB_D11D_7FDF_41E0_E015D1F14905.label = 17976281609456779_000
+photo_C5EE60BB_D11D_7FDF_41E0_E015D1F14905.label = 17976281609456779_000
+photo_C48C4D14_D11D_46A9_41E8_E480A3A313A5.label = 17993908058215940_000
+photo_C48C4D14_D11D_46A9_41E8_E480A3A313A5.label = 17993908058215940_000
+panorama_C0E33DE4_CD0B_C483_41DC_1FE985C32E98.label = Banheiros com acessibilidade
+panorama_C0DD0E26_CD34_478C_41E9_A0C0D8AFFCAC.label = Banheiros com acessibilidade
+video_EE6D08DE_CF14_4CBF_41CC_69B8DB60B06B.label = CASAMENTO
+panorama_C0DCFEDC_CD34_44BC_41DA_3C69D380F180.label = Churrasqueira
+panorama_C0DDC5F1_CD34_4484_41DF_E6D643915249.label = Dormitórios
+album_EDC076F1_CF0C_4484_419C_EC9673FEBCC0_0.label = ESPAÇO FOTOS (1)
+album_EDC076F1_CF0C_4484_419C_EC9673FEBCC0_1.label = ESPAÇO FOTOS (1)
+photo_EE3DECC4_CF74_448C_41E6_A9F8EA61FEFC.label = ESPAÇO FOTOS (1)
+photo_EE3C0A18_CF74_4F84_419D_1220C32BEC88.label = ESPAÇO FOTOS (1)
+panorama_DDCC817B_CD14_DD85_41E6_46C3DFF612D7.label = Entrada
+panorama_C29C53D8_CD14_5C83_41E0_55C3CC7618BC.label = Entrada do dormitório
+panorama_C0DDF685_CD34_448D_41DD_3767953A99D1.label = Espaço Caminho do Sol
+panorama_C0E32A1C_CD0C_4F83_41E8_B44A7D8997F6.label = Espaço Noiva
+panorama_C0E3079E_CD0C_44BC_41C2_37FEE7C9DB4B.label = Espaço Noiva
+panorama_C29C04BA_CD14_C484_41E9_26A5102E217E.label = Espaço Noiva
+panorama_C0E368B8_CD0C_4C83_41E8_FF23BE54C04B.label = Espaço Noiva
+panorama_C29CA7E0_CD14_C484_41E1_631D7F01E714.label = Espaço jardim
+panorama_C29C4126_CD14_3D8F_41E7_3AF989958C5B.label = Espaço jardim
+panorama_C29CDD80_CD14_C485_41C0_6509E3075BCE.label = Espaço jardim
+panorama_C0DD419F_CD34_3CBC_41E2_CE43190C6D1A.label = Espaço no jardim
+panorama_C0DD1037_CD34_5B8C_41DF_021344B36B84.label = Espaço no jardim
+panorama_C0E32B68_CD0B_CD83_41DF_049BF2939D8C.label = Espaço no jardim
+panorama_C0DD433D_CD34_FDFC_41E3_D8F20BECB46C.label = Espaço no jardim
+photo_EFC75778_CF14_4584_41CD_997ED1915D62.label = FOTOS (1)
+photo_EFC75778_CF14_4584_41CD_997ED1915D62.label = FOTOS (1)
+photo_EFC76918_CF14_4D84_41C7_372902DFFCF9.label = FOTOS (2)
+photo_EFC76918_CF14_4D84_41C7_372902DFFCF9.label = FOTOS (2)
+photo_EFC74B07_CF14_4D8D_41E7_894882C8FABC.label = FOTOS (3)
+photo_EFC74B07_CF14_4D8D_41E7_894882C8FABC.label = FOTOS (3)
+photo_EC5B867D_CF14_C47C_41E8_8422177A11EC.label = FOTOS (4)
+photo_EC5B867D_CF14_C47C_41E8_8422177A11EC.label = FOTOS (4)
+photo_EFC6A886_CF14_CC8F_41E3_06B36BD1098B.label = FOTOS (5)
+photo_EFC6A886_CF14_CC8F_41E3_06B36BD1098B.label = FOTOS (5)
+photo_EFC55A56_CF14_CF8C_41DF_1E0ADCA93CBB.label = FOTOS (6)
+photo_EFC55A56_CF14_CF8C_41DF_1E0ADCA93CBB.label = FOTOS (6)
+photo_EFC76CC6_CF14_448F_41E3_AD6BBC4FEA43.label = FOTOS (7)
+photo_EFC76CC6_CF14_448F_41E3_AD6BBC4FEA43.label = FOTOS (7)
+album_D7F005E6_CD0C_C48C_41DA_C504984B6473.label = GALERIA DE FOTOS 15 ANOS
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0.label = GALERIA DE FOTOS CASAMENTO
+album_EDC076F1_CF0C_4484_419C_EC9673FEBCC0.label = GALERIA EVENTOS
+panorama_C0DD0475_CD34_DB8C_41E5_AB6FF84315D8.label = Parquinho
+panorama_C0DD1257_CD34_DF8D_41DC_C86962EFA8DD.label = Piscinas
+panorama_C29C1A6A_CD14_4F84_41E3_8BE14EDD72A6.label = Playground
+panorama_C0E31CDC_CD0B_C4BC_41CC_6882AAD49A21.label = Salão de festa
+panorama_C0E2ED8F_CD0B_C49D_41DF_3CDF0C4D30F9.label = Salão de festa
+video_EF52B1C3_CF15_DC84_41D1_70F2BDE434AA.label = casamento 
+video_EFF780CB_CF1C_7C84_41E7_585C6C9599BF.label = chá de revelação
+photo_ECE675AD_CF14_449C_41DC_BABDF491C7DA.label = espacocaminhodosol
+photo_ECE675AD_CF14_449C_41DC_BABDF491C7DA.label = espacocaminhodosol
+photo_DA19DA54_D0FD_42A9_41D3_206D3CBC7188.label = espacocaminhodosol
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_1.label = espacocaminhodosol (11)
+photo_DA5E132F_CD34_5D9C_41E5_B673E36CE1F4.label = espacocaminhodosol (11)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_2.label = espacocaminhodosol (12)
+photo_DA5E0483_CD34_4484_41E9_846EF896D337.label = espacocaminhodosol (12)
+album_D7F005E6_CD0C_C48C_41DA_C504984B6473_3.label = espacocaminhodosol (13)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_3.label = espacocaminhodosol (14)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_4.label = espacocaminhodosol (15)
+photo_DA5EE61D_CD34_47BD_41E0_821D8E950299.label = espacocaminhodosol (15)
+photo_DA5E081D_CD34_4BBD_41E7_D1EC950F6C26.label = espacocaminhodosol (16)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_5.label = espacocaminhodosol (16)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_6.label = espacocaminhodosol (17)
+photo_DA5EE9CF_CD34_4C9C_41DB_45091DA21D18.label = espacocaminhodosol (17)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_7.label = espacocaminhodosol (18)
+photo_DA5E0B62_CD34_4D84_41D7_50C34C25F08D.label = espacocaminhodosol (18)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_8.label = espacocaminhodosol (19)
+photo_DA5E1D3E_CD34_45FF_41CD_1629619E40D6.label = espacocaminhodosol (19)
+album_D49EDF3B_CD3C_C584_41CC_D7695A4B5DF0_0.label = espacocaminhodosol (3)
+photo_DA5F31AE_CD34_5C9C_41D6_64F6DC420DB2.label = espacocaminhodosol (3)
+album_EDC076F1_CF0C_4484_419C_EC9673FEBCC0_2.label = espacocaminhodosol (4)
+album_D7F005E6_CD0C_C48C_41DA_C504984B6473_0.label = espacocaminhodosol (5)
+album_D7F005E6_CD0C_C48C_41DA_C504984B6473_1.label = espacocaminhodosol (6)
+album_D7F005E6_CD0C_C48C_41DA_C504984B6473_2.label = espacocaminhodosol (7)
+album_EDC076F1_CF0C_4484_419C_EC9673FEBCC0_3.label = espacocaminhodosol (8)
+photo_EE3C25FD_CF74_447D_41DE_8B7B91E58971.label = espacocaminhodosol (8)
+album_EDC076F1_CF0C_4484_419C_EC9673FEBCC0_4.label = espacocaminhodosol (9)
+photo_EE3DE7EF_CF74_449C_41CF_291DA86AAB43.label = espacocaminhodosol (9)
+panorama_C0E32670_CD0C_4784_41E1_26C834D64DA9.label = Área Verde
+panorama_C0E30500_CD0C_C583_41D2_A9C32A550C9A.label = Área Verde
+panorama_C288FB5C_CD14_CDBC_41A3_61A855044956.label = Área Verde
+panorama_C0E29349_CD0C_FD84_41CB_1D9D7AB8FFE9.label = Área verde
+panorama_C370F131_CD0C_DD84_41E0_7B8A995B070D.label = Área verde
+
+### Video
+video_EE6D08DE_CF14_4CBF_41CC_69B8DB60B06B.path = null
+video_EF52B1C3_CF15_DC84_41D1_70F2BDE434AA.path = null
+video_EFF780CB_CF1C_7C84_41E7_585C6C9599BF.path = null
+videolevel_FC37D8B2_D3C3_B756_41BF_DF779E1309DD.posterURL = media/video_EE6D08DE_CF14_4CBF_41CC_69B8DB60B06B_poster_pt.jpg
+videolevel_FC37D8B2_D3C3_B756_41BF_DF779E1309DD.url = media/video_EE6D08DE_CF14_4CBF_41CC_69B8DB60B06B_pt.mp4
+videolevel_FDD8793B_D3C3_6956_41C3_F9AD03AC12A2.posterURL = media/video_EF52B1C3_CF15_DC84_41D1_70F2BDE434AA_poster_pt.jpg
+videolevel_FDD8793B_D3C3_6956_41C3_F9AD03AC12A2.url = media/video_EF52B1C3_CF15_DC84_41D1_70F2BDE434AA_pt.mp4
+videolevel_FC1B626C_D3C3_BBF1_41D3_46741BA51047.posterURL = media/video_EFF780CB_CF1C_7C84_41E7_585C6C9599BF_poster_pt.jpg
+videolevel_FC1B626C_D3C3_BBF1_41D3_46741BA51047.url = media/video_EFF780CB_CF1C_7C84_41E7_585C6C9599BF_pt.mp4
+
+## Popup
+
+### Body
+htmlText_F62C6736_D244_F95E_41EA_1974C08565ED.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F72915E2_D244_B8F1_41D9_3917BEC3FCC8.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F66330F3_D247_58D6_41BD_37F16F5571EE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F66911F6_D247_58DE_41D3_EED41CDD9BB0.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_FCF01BED_D25C_A8F2_41DB_F30379742420.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_F6823469_D245_DFF2_41D8_4DFD19A7ECBE.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_FC92F453_D245_7FD6_41DB_D9EB8CF5BD6F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_FC8F32CC_D243_BB32_41D6_FD92A046443D.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_FC43D944_D25D_A932_41D7_950851687D62.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:16px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+htmlText_C82A1760_D1C4_F9F2_41E8_82D64A50FA03.html = <div style="text-align:left; color:#000; "><HTML><BODY><DIV STYLE="text-align:left;font-size:19px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ff9900;font-size:19px;">GALERIA DE IMAGENS</SPAN></SPAN></DIV></BODY></HTML></div>
+
+## Skin
+
+### Button
+Button_D1E56DDD_C2A3_134D_41E4_EAB7C1814AC3.label =  PLAYGROUND
+Button_D23F0536_C163_10DE_41D4_A5133B0990BE_mobile.label = 15 ANOS | DEBUTANTES
+Button_D61F0599_CD0D_C485_41C4_49815F5AB48D.label = 15 ANOS | DEBUTANTES
+Button_D32231BA_C167_33D7_41D9_96CD740A02EA_mobile.label = AMBIENTES
+Button_D32231BA_C167_33D7_41D9_96CD740A02EA.label = AMBIENTES
+Button_CA851A57_D1CF_6BDE_41DF_FBA1AB13876F.label = ANIVERSÁRIOS
+Button_E47C3DDC_CD0C_44BC_41CF_55DB37063F6C_mobile.label = ANIVERSÁRIOS
+Button_D14AD563_C2A3_F376_41B1_0243D8B0C219_mobile.label = BANHEIROS COM ACESSIBILIDADE
+Button_D14AD563_C2A3_F376_41B1_0243D8B0C219.label = BANHEIROS COM ACESSIBILIDADE
+Button_D124BCEE_C41E_37AE_41C9_7659F8CE1D6D_mobile.label = CAPELA SÃO FRANCISCO
+Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D.label = CASAMENTO
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.label = CASAMENTO NO JARDIM
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.label = CASAMENTO NO JARDIM
+Button_D323B1BB_C167_33D6_41C3_1CCE01CBBE9D_mobile.label = CASAMENTOS
+Button_E55E5B84_CD0C_4C8C_41DD_6AFD994487D2_mobile.label = CHAMAR AQUI
+Button_D11F8D2E_C2A3_10CE_41E5_9991D5A62F6D.label = CHURRASQUEIRA
+Button_D11F8D2E_C2A3_10CE_41E5_9991D5A62F6D_mobile.label = CHURRASQUEIRA
+Button_D959D9C9_CD0C_CC84_41D7_769C92495CBE.label = CHÁ DE REVELAÇÃO
+Button_E4744F1B_CD0C_4584_419F_3AE2EA0C3C7B_mobile.label = CHÁ DE REVELAÇÃO
+Button_CAAD2DD0_D1CD_68D2_41E8_3A6E000F7836.label = DISTÂNCIA DA CAPELA SÃO FRANCISCO
+Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592_mobile.label = DORMITÓRIO
+Button_D17C02BB_C2A3_11D5_41E7_08531DDA8592.label = DORMITÓRIO
+Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06.label = ENTRADA
+Button_D323F1BA_C167_33D7_41D2_0A2E898A2E06_mobile.label = ENTRADA
+Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4_mobile.label = ESPAÇO PARA NOIVA
+Button_D323E1BA_C167_33D7_41D6_8D45D570A9D4.label = ESPAÇO PARA NOIVA
+Button_D9D560F7_CDFC_7C8D_41E6_FF92DA7EAF20.label = EVENTOS GERAIS
+Button_E46DFC14_CD0C_4B8C_41D6_A3CF63F8FD0E_mobile.label = EVENTOS GERAIS
+Button_CABEA8AD_D1CF_B773_41E7_C59D78C165BC.label = INSTAGRAM
+Button_D1FD1F0D_C412_3252_41B0_29D2F7D1CDCF_mobile.label = INSTAGRAM
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC_mobile.pressedLabel = JARDIM DE INVERNO
+Button_D32391BA_C167_33D7_41D9_5B1FF9B5E1FC.pressedLabel = JARDIM DE INVERNO
+Button_CB11A5D1_D1CC_D8D2_41E1_B950C6753BEF.label = LOCALIZAÇÃO
+Button_E6C81485_CD0C_448C_41BB_EDDDDC0549CE_mobile.label = LOCALIZAÇÃO
+Button_062AF830_1140_E215_418D_D2FC11B12C47.label = LOREM IPSUM
+Button_062AF830_1140_E215_418D_D2FC11B12C47_mobile.label = LOREM IPSUM
+Button_CA0D03E5_D1DD_78F2_41E4_DD460716169F.label = NOS AVALIE NO GOOGLE
+Button_D07930DA_C417_CFF6_41D5_C9E175B972BF_mobile.label = NOS AVALIE NO GOOGLE
+Button_D60740CB_C2A3_71B5_41D1_58FF932B7EA7.label = PARQUE DE DIVERSÃO
+Button_D60740CB_C2A3_71B5_41D1_58FF932B7EA7_mobile.label = PARQUE DE DIVERSÃO
+Button_D1F4AF15_C2A3_10D2_41C7_F3FC55A4EC84_mobile.label = PISCINAS
+Button_D1F4AF15_C2A3_10D2_41C7_F3FC55A4EC84.label = PISCINAS
+Button_D1E56DDD_C2A3_134D_41E4_EAB7C1814AC3_mobile.label = PLAYGROUND
+Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07_mobile.label = RESERVAR AGORA
+Button_E2DF1DD4_C3A1_1352_41E7_4BC6CE088E07.label = RESERVAR AGORA
+Button_D32381BA_C167_33D7_41E8_2F613CCAC58B.label = SALÃO DE FESTA
+Button_D32381BA_C167_33D7_41E8_2F613CCAC58B_mobile.label = SALÃO DE FESTA
+Button_D7FE816A_C41E_4ED6_41E7_51C3EA89392B_mobile.label = VARANDA
+
+### Image
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.path = null
+Image_E6706BB5_CEF7_CC8C_41D5_C07ACF76D750.path = null
+Image_E9BA46A3_CF0C_4485_41DE_9B39CC9055A6.path = null
+Image_F87802AE_D105_43F6_41BD_B1A00B97D54A.path = null
+Image_FB31E091_CD1C_DC85_41E4_86155FA4A9D3.path = null
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_mobile_pt.jpg
+Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A.url = skin/Image_062A182F_1140_E20B_41B0_9CB8FFD6AA5A_pt.jpg
+Image_E6706BB5_CEF7_CC8C_41D5_C07ACF76D750.url = skin/Image_E6706BB5_CEF7_CC8C_41D5_C07ACF76D750_pt.png
+Image_E9BA46A3_CF0C_4485_41DE_9B39CC9055A6.url = skin/Image_E9BA46A3_CF0C_4485_41DE_9B39CC9055A6_pt.png
+Image_F87802AE_D105_43F6_41BD_B1A00B97D54A.url = skin/Image_F87802AE_D105_43F6_41BD_B1A00B97D54A_pt.png
+Image_FB31E091_CD1C_DC85_41E4_86155FA4A9D3.url = skin/Image_FB31E091_CD1C_DC85_41E4_86155FA4A9D3_pt.png
+
+### Label
+Label_FCCF45C2_D27C_D936_41C2_A87352C8733E.text = {{title}}
+Label_A88D3AD9_BE77_99E3_41E1_D0AC344BEE9E_mobile.text = {{title}}
+
+### Multiline Text
+HTMLText_062AD830_1140_E215_41B0_321699661E7F.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_062AD830_1140_E215_41B0_321699661E7F_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.61vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Mauris aliquet neque quis libero consequat vestibulum. Donec lacinia consequat dolor viverra sagittis. Praesent consequat porttitor risus, eu condimentum nunc. Proin et velit ac sapien luctus efficitur egestas ac augue. Nunc dictum, augue eget eleifend interdum, quam libero imperdiet lectus, vel scelerisque turpis lectus vel ligula. Duis a porta sem. Maecenas sollicitudin nunc id risus fringilla, a pharetra orci iaculis. Aliquam turpis ligula, tincidunt sit amet consequat ac, imperdiet non dolor.</SPAN></DIV><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:1.2000000000000015vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;">Integer gravida dui quis euismod placerat. Maecenas quis accumsan ipsum. Aliquam gravida velit at dolor mollis, quis luctus mauris vulputate. Proin condimentum id nunc sed sollicitudin.</SPAN></DIV><p STYLE="margin:0; line-height:1.96vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:2.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.2vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Sejam Bem-vindos ao tour virtual 360º
+
+### Title
+tour.name = Espaço Caminho do Sol
